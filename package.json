@@ -1,28 +1,31 @@
 {
-  "name": "solver-js",
+  "name": "idealvalues",
   "version": "1.0.0",
-  "description": "Solução do Solver do Excel em Javascript.",
+  "description": "Idealvalues ​​is a tool you can use for hypothesis testing. Use Idealvalues ​​to find a sum value within an array of numbers.",
   "main": "index.js",
   "scripts": {
     "webpack": "webpack --mode production"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/santos-jp7/solver-js.git"
+    "url": "git+https://github.com/santos-jp7/idealvalues.git"
   },
   "keywords": [
     "js",
     "javascript",
     "excel",
     "solver",
-    "math"
+    "math",
+    "math",
+    "mathematics",
+    "hypothesis"
   ],
   "author": "Jean Pierre <hjepih@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/santos-jp7/solver-js/issues"
+    "url": "https://github.com/santos-jp7/idealvalues/issues"
   },
-  "homepage": "https://github.com/santos-jp7/solver-js#readme",
+  "homepage": "https://github.com/santos-jp7/idealvalues#readme",
   "dependencies": {
     "webpack": "^5.72.0",
     "webpack-cli": "^4.9.2"

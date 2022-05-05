@@ -5,11 +5,11 @@ const Solver = require("./lib/solver");
         module.exports = Solver;
     }
     else {
-        window.solverJs = Solver;
-        global.solverJs = Solver;
+        window.idealValues = Solver;
+        global.idealValues = Solver;
 
         if (typeof define === "function" && define.amd) {
-            define("solverJs", [], function () { return Solver; });
+            define("idealValues", [], function () { return Solver; });
         }
     }
 })();
