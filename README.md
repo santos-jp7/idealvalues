@@ -19,7 +19,9 @@ Using cdn:
 
 ## API
 
-### idealvalues(number, [values],);
+```js
+idealvalues(number, [values], {options?});
+```
 
 Returns the numbers at which the sum arrives at the desired value.
 
