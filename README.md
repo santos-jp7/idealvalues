@@ -8,7 +8,7 @@ Idealvalues is a tool you can use for hypothesis testing. Use Idealvalues to fin
 Using npm:
 
 ```bash
-$ npm install axios
+$ npm install idealvalues
 ```
 ---
 Using cdn:
