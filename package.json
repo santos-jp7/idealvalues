@@ -1,6 +1,6 @@
 {
   "name": "idealvalues",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Idealvalues ​​is a tool you can use for hypothesis testing. Use Idealvalues ​​to find a sum value within an array of numbers.",
   "main": "index.js",
   "scripts": {
