@@ -14,7 +14,7 @@ $ npm install idealvalues
 Using cdn:
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/idealvalues/cdn/idealvalues.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/idealvalues/cdn/idealvalues.js" integrity="sha256-pHB+sncAePApDDjJyqPddPhPLKK7OPe493sMwOlFVBs=" crossorigin="anonymous"></script>
 ```
 
 ## API
@@ -77,7 +77,7 @@ console.log(values);
 ### CDN
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/idealvalues/cdn/idealvalues.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/idealvalues/cdn/idealvalues.js" integrity="sha256-pHB+sncAePApDDjJyqPddPhPLKK7OPe493sMwOlFVBs=" crossorigin="anonymous"></script>
 <script>
     const values = idealvalues(180, [10, 10, 20, 20, 40, 40, 30, 50, 70, 30, 40]);
 
