@@ -26,8 +26,8 @@
     "url": "https://github.com/santos-jp7/idealvalues/issues"
   },
   "homepage": "https://github.com/santos-jp7/idealvalues#readme",
-  "dependencies": {
-    "webpack": "^5.72.0",
-    "webpack-cli": "^4.9.2"
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.74.0"
   }
 }
